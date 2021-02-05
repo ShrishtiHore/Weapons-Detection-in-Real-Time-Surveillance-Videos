@@ -101,6 +101,7 @@ object_detection/
 3. Choose a a model that has a low ms inference speed with a relatively high mAP on COCO. The on we are using is ssd_mobilenet_v2_coco. Check the other models from here. You could use any pre-trained model you prefer, but I would suggest experimenting with SSD ‘Single Shot Detector’ models first as they perform faster than any type of RCNN on a real-time video.
 4. Download th pretrained model. While training, the model will get autosaved every 600 seconds by default. The logs and graphs, such as, the mAP, loss and AR, will also get saved constantly.
 5. The working directory at this point:
+
 object_detection/
            ├── data/
            │    ├── images/

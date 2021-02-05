@@ -215,7 +215,7 @@ object_detection/
 **Results**
 
 ![result1]()
-![result2]()
+
 **References**
 1. https://stats.stackexchange.com/questions/205150/how-do-bottleneck-architectures-work-in-neural-networks
 2. https://medium.com/@techmayank2000/object-detection-using-ssd-mobilenetv2-using-tensorflow-api-can-detect-any-single-class-from-31a31bbd0691

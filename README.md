@@ -208,7 +208,7 @@ object_detection/
 - This model is a single-stage object detection model that goes straight from image pixels to bounding box coordinates and class probabilities. The model architecture is based on inverted residual structure where the input and output of the residual block are thin bottleneck layers as opposed to traditional residual models. Moreover, nonlinearities are removed from intermediate layers and lightweight depthwise convolution is used. This model is part of the Tensorflow object detection API.
 - SSD is a popular algorithm in object detection. It’s generally faster than Faster RCNN. In this post, I will give you a brief about what is object detection, what is tenforflow API, what is the idea behind neural networks and specifically how SSD architecture works.
 - The SSD architecture is a single convolution network that learns to predict bounding box locations and classify these locations in one pass. Hence, SSD can be trained end-to-end. The SSD network consists of base architecture (MobileNet in this case) followed by several convolution layers:
-![ssd]
+![ssd](https://github.com/ShrishtiHore/Weapons-Detection-in-Real-Time-Surveillance-VIdeos-/blob/master/ssd.png)
 - By using SSD, we only need to take one single shot to detect multiple objects within the image, while regional proposal network (RPN) based approaches such as R-CNN series that need two shots, one for generating region proposals, one for detecting the object of each proposal. Thus, SSD is much faster compared with two-shot RPN-based approaches.
 
 **Results**

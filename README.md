@@ -199,6 +199,7 @@ object_detection/
 1. the model will save a checkpoint every 600 seconds while training up to 5 checkpoints. Then, as new files are created, older files are deleted.
 2. Then by executing export_inference_graph.py to convert the model to a frozen model frozen_inference_graph.pb that we can use for inference. 
 3. This frozen model can’t be used to resume training. However, saved_model.pb gets exported as well which can be used to resume training as it has all the weights.
+![train](https://github.com/ShrishtiHore/Weapons-Detection-in-Real-Time-Surveillance-VIdeos-/blob/master/train_acc.PNG)
 
 **Step 13: Webcam Inference**
 1. To use your webcam in your local machine to inference the model use tensorflow and cv2.

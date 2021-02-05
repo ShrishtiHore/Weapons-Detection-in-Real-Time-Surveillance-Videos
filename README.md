@@ -214,7 +214,7 @@ object_detection/
 
 **Results**
 
-![result1]()
+![result1](https://github.com/ShrishtiHore/Weapons-Detection-in-Real-Time-Surveillance-VIdeos-/blob/master/results.gif)
 
 **References**
 1. https://stats.stackexchange.com/questions/205150/how-do-bottleneck-architectures-work-in-neural-networks

@@ -215,6 +215,10 @@ object_detection/
 **Results**
 
 ![result1](https://github.com/ShrishtiHore/Weapons-Detection-in-Real-Time-Surveillance-VIdeos-/blob/master/results.gif)
+![result2](https://github.com/ShrishtiHore/Weapons-Detection-in-Real-Time-Surveillance-VIdeos-/blob/master/result1.png)
+![result3](https://github.com/ShrishtiHore/Weapons-Detection-in-Real-Time-Surveillance-VIdeos-/blob/master/result2.png)
+![result4](https://github.com/ShrishtiHore/Weapons-Detection-in-Real-Time-Surveillance-VIdeos-/blob/master/result3.png)
+![result5](https://github.com/ShrishtiHore/Weapons-Detection-in-Real-Time-Surveillance-VIdeos-/blob/master/result4.png)
 
 **References**
 1. https://stats.stackexchange.com/questions/205150/how-do-bottleneck-architectures-work-in-neural-networks
